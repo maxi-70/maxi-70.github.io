@@ -1,0 +1,27 @@
+p{
+	color: green;
+}
+h1{
+	color: red;
+}
+body {
+	background: #608DA2; /* Фон веб-страницы */
+}
+ul {
+	list-style: none; /* Убираем маркеры */
+}
+li {
+	display: inline-block; /* Строчно-блочный элемент */
+	border: 2px solid #fff; /* Параметры контура */
+	margin-right: 5px; /* Отступ справа */
+	background: #000; /* Чёрный фон */
+	width: 10px; height: 10px; /* Ширина и высота */
+	border-radius: 10px; /* Делаем кружок */
+}
+li.active {
+	background: #b00; /* Красный фон */
+	box-shadow: 0 0 4px 2px #fff; /* Параметры свечения */
+} 
+.roundpic3{
+	border-radius: 100px;
+}

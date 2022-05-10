@@ -1,0 +1,21 @@
+.tikay{
+	color: blue;
+	text-shadow: 1px 1px 5px gray;
+	font-family: cursive;
+	font-size: 1.4em;
+}
+th, td{
+	color: blueviolet;
+	text-shadow: 1px 1px 5px gray;
+	font-family: cursive;
+	font-size: 1.0em;
+}
+.roma{
+	border-radius: 50%;
+	box-shadow: 0px 0px 50px 3px gray;
+}
+.roma:hover{
+	border-radius: 50%;
+	box-shadow: 0px 0px 20px 3px greenyellow;
+	transition: 0.2s;
+}
